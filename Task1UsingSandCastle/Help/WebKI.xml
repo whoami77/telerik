@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Age property" Url="html/a2011b48-1384-2993-ff04-ce0a139e0abe.htm" />
+  <HelpKINode Title="Cash property" Url="html/cc1ec14c-6e39-707f-a816-b79fa93dbdee.htm" />
+  <HelpKINode Title="GiveCash method" Url="html/e07ca27b-a4e5-8a45-b318-84c5766b9124.htm" />
+  <HelpKINode Title="Guy class">
+    <HelpKINode Title="Guy Class" Url="html/4e069cdc-b208-44a3-6c19-d1108a6e1819.htm" />
+    <HelpKINode Title="about Guy class" Url="html/4e069cdc-b208-44a3-6c19-d1108a6e1819.htm" />
+    <HelpKINode Title="constructor" Url="html/83b08e30-95c8-73c5-cb8c-781e0d44a975.htm" />
+    <HelpKINode Title="methods" Url="html/669828d8-bdfb-c170-904c-b11ae6320500.htm" />
+    <HelpKINode Title="properties" Url="html/a4c8b0fb-bdf3-3113-239d-8974aaea5cc4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Guy.Age property" Url="html/a2011b48-1384-2993-ff04-ce0a139e0abe.htm" />
+  <HelpKINode Title="Guy.Cash property" Url="html/cc1ec14c-6e39-707f-a816-b79fa93dbdee.htm" />
+  <HelpKINode Title="Guy.GiveCash method" Url="html/e07ca27b-a4e5-8a45-b318-84c5766b9124.htm" />
+  <HelpKINode Title="Guy.Guy constructor" Url="html/83b08e30-95c8-73c5-cb8c-781e0d44a975.htm" />
+  <HelpKINode Title="Guy.Name property" Url="html/f8ee2b98-5f60-a352-68cf-b06c2074d4ac.htm" />
+  <HelpKINode Title="Guy.ReceiveCash method" Url="html/c7b3509f-17f9-65c7-d1ef-e53174d1e012.htm" />
+  <HelpKINode Title="Guy.ToString method" Url="html/48276d04-b186-8407-c055-db68c1306c7c.htm" />
+  <HelpKINode Title="Name property" Url="html/f8ee2b98-5f60-a352-68cf-b06c2074d4ac.htm" />
+  <HelpKINode Title="ReceiveCash method" Url="html/c7b3509f-17f9-65c7-d1ef-e53174d1e012.htm" />
+  <HelpKINode Title="Task1UsingSandCastle namespace" Url="html/3a75df84-ad29-cebf-771c-0c4d9dee7f12.htm" />
+  <HelpKINode Title="Task1UsingSandCastle.Guy class" Url="html/4e069cdc-b208-44a3-6c19-d1108a6e1819.htm" />
+  <HelpKINode Title="ToString method" Url="html/48276d04-b186-8407-c055-db68c1306c7c.htm" />
+</HelpKI>
